@@ -11,7 +11,7 @@ require_once 'class_mahasiswa.php';?>
 <body>
     <div class="container">
         <table class="table table-bordered">
-            <tr>
+            <tr class="table-success">
                 <th>No</th>
                 <th>NIM</th>
                 <th>Nama</th>

@@ -37,7 +37,7 @@ require_once 'sidebar.php';
                             </div>
                         </div>
                         <div class="card-body">
-                            <a href="add.php"><button class="btn btn-primary mb-1">Tambah Data</button></a>
+                            <a href="add.php"><button class="btn btn-primary mb-1">Tambah Data Periksa</button></a>
                             <table class="table">
                                 <thead>
                                     <tr>
